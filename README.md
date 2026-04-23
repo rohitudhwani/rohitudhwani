@@ -15,6 +15,7 @@ I’m a Data Analyst with a background in engineering and a passion for solving 
 
 - [Public Transit Time Measurement and Analysis App (MVP - WIP)](https://github.com/rohitudhwani/Public-Transit-Tracker)
 - [e-Commerce Churn Prediction ML Model](https://github.com/rohitudhwani/ecommerce_analytics)
+- [Loan Risk Assessment ML Prediction Model](https://github.com/rohitudhwani/loan_risk_prediction_model)
 ---
 
 ## 🧰 Tools & Tech
