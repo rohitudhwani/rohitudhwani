@@ -13,7 +13,8 @@ I’m a Data Analyst with a background in engineering and a passion for solving 
 
 ## 📂 Featured Projects
 
-- [Public Transit Time Measurement and Analysis App (MVP - WIP)](https://github.com/yesiamadorito/Public-Transit-Tracker)
+- [Public Transit Time Measurement and Analysis App (MVP - WIP)](https://github.com/rohitudhwani/Public-Transit-Tracker)
+- [e-Commerce Churn Prediction ML Model](https://github.com/rohitudhwani/ecommerce_analytics)
 ---
 
 ## 🧰 Tools & Tech
@@ -21,7 +22,7 @@ I’m a Data Analyst with a background in engineering and a passion for solving 
 **- Languages:** C, Python, SQL  
 **- Visualization:** AWS QuickSight, Power BI, Tableau, Looker Studio  
 **- Data Tools:** PostgreSQL, Excel  
-**- Forecasting & ML:** XGBoost, k-NN, CNN, SVM, Random Forest  
+**- Forecasting & ML:** XGBoost, k-NN, CNN, SVM, Random Forest
 **- APIs:** Google Maps, OpenStreetMaps
 
 ---
