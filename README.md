@@ -13,6 +13,7 @@ I’m a Data Analyst with a background in engineering and a passion for solving 
 
 ## 📂 Featured Projects
 
+- [Real Estate Facility Management Live Dashboard - Smart Facility Pulse](https://github.com/rohitudhwani/smart-facility-pulse)
 - [Public Transit Time Measurement and Analysis App (MVP - WIP)](https://github.com/rohitudhwani/Public-Transit-Tracker)
 - [e-Commerce Churn Prediction ML Model](https://github.com/rohitudhwani/ecommerce_analytics)
 - [Loan Risk Assessment ML Prediction Model](https://github.com/rohitudhwani/loan_risk_prediction_model)
